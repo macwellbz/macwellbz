@@ -2,11 +2,6 @@
 
 I'm a Computer Science graduate from the University of Toronto.
 
-### Primary Languages:
-- Python
-- JavaScript / TypeScript
-- C
-
 Thanks for checking out my GitHub! Below you can find my contact info:
 
 <a target="_blank" href="https://www.linkedin.com/in/maxwellbz"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
